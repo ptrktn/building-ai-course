@@ -16,8 +16,7 @@ Describe briefly in 2-3 sentences what your project is about. About
 Cooking is an essential part of our lives and new, healthier, dishes
 can be created by intelligent use of ingredients.  The objective of
 this project is to classify foods based on their consitituents and
-macronutrients. The classified data can then be utilised by another AI
-systems to generate recommendations and new recipies.
+macronutrients.
 
 
 ## Background
@@ -40,6 +39,8 @@ cream with balsamic vinegar of Modena and pineapple on pizza.
 Categorisation based on constituents that give foods their flavour,
 color, taste, texture and aroma creates a scientic base to create
 derivative recipies and explore novel food combinations.
+The classified data can then be utilised by another AI
+systems to generate recommendations and new recipies.
 
 ## How is it used?
 
